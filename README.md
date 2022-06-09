@@ -1,2 +1,2 @@
 # practice
-practicing html and css
+https://aminlaskor.github.io/practice/
