@@ -1,0 +1,18 @@
+
+
+
+
+h1{
+	bacground-color: blue;
+	border: 5px solid blue;
+	border-radius: 20px;
+}
+
+a{
+	border: 2px solid green;
+	background-color: gray;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
